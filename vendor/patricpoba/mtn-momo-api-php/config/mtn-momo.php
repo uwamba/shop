@@ -19,13 +19,13 @@ return [
 
     'collection' => [
 
-        'api_secret'    => env('f2451a4a-d68d-4fa4-a40e-788aaef894b4'),
+        'api_secret'    => env('MTN_MOMO_COLLECTION_API_SECRET'),
         
-        'primary_key'   => env('71f3fe018b1a47a8ac83678dc44772ac'),
+        'primary_key'   => env('MTN_MOMO_COLLECTION_PRIMARY_KEY'),
 
-        'user_id'       => env('f2451a4a-d68d-4fa4-a40e-788aaef894b4'),
+        'user_id'       => env('MTN_MOMO_COLLECTION_USER_ID'),
 
-        'callback_url'  => env('https://webhook.site/a6f42fcc-bfac-46ea-b5c4-4ce0f7025890')
+        'callback_url'  => env('MTN_MOMO_COLLECTION_CALLBACK_URL')
     ],
  
 

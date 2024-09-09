@@ -14,7 +14,11 @@ define('LIST_URL',    'https://publicsuffix.org/list/public_suffix_list.dat');
 /** Name of PHP file to write */
 define('OUTPUT_FILE', __DIR__ . '/public-suffix-list.php');
 
-require_once 'HTTP/Request2.php';
+if (file_exists('../vendor/autoload.php')) {
+    require_once '../vendor/autoload.php';
+} else {
+    require_once 'HTTP/Request2.php';
+}
 
 function buildSubdomain(&$node, $tldParts)
 {
@@ -70,7 +74,7 @@ try {
     if (false === strpos($list, '// ===BEGIN ICANN DOMAINS===')) {
         throw new Exception("List download URL does not contain expected phrase");
     }
-    if (!($fp = @fopen(OUTPUT_FILE, 'wt'))) {
+    if (!($fp = @fopen(OUTPUT_FILE, 'wb'))) {
         throw new Exception("Unable to open " . OUTPUT_FILE);
     }
 

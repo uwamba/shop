@@ -76,12 +76,12 @@
                 $imageProcess = 0;
             break;
         }
-		       echo $_FILES['photo']['tmp_name'];
+
 				
-				move_uploaded_file($_FILES['photo']['tmp_name'], $new_filename1);	
-				move_uploaded_file($_FILES['photo1']['tmp_name'], $new_filename2);	
-				move_uploaded_file($_FILES['photo2']['tmp_name'], $new_filename3);	
-				move_uploaded_file($_FILES['photo3']['tmp_name'], $new_filename4);	
+				move_uploaded_file($_FILES['photo']['tmp_name'], $folderPath .$new_filename1);	
+				move_uploaded_file($_FILES['photo1']['tmp_name'], $folderPath .$new_filename2);	
+				move_uploaded_file($_FILES['photo2']['tmp_name'], $folderPath .$new_filename3);	
+				move_uploaded_file($_FILES['photo3']['tmp_name'], $folderPath .$new_filename4);	
 			}
 			else{
 				$new_filename = '';
@@ -124,6 +124,6 @@ function resizeImage($resourceType, $image_width, $image_height, $resizeWidth, $
 
     return $targetLayer;
 }
-	//header('location: products.php');
+	header('location: products.php');
 
 ?>

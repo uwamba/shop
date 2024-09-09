@@ -13,7 +13,7 @@
  * @category  HTTP
  * @package   HTTP_Request2
  * @author    Alexey Borzov <avb@php.net>
- * @copyright 2008-2021 Alexey Borzov <avb@php.net>
+ * @copyright 2008-2023 Alexey Borzov <avb@php.net>
  * @license   http://opensource.org/licenses/BSD-3-Clause BSD 3-Clause License
  * @link      http://pear.php.net/package/HTTP_Request2
  */
@@ -51,7 +51,8 @@ class HTTP_Request2_Adapter_Mock extends HTTP_Request2_Adapter
 {
     /**
      * A queue of responses to be returned by sendRequest()
-     * @var  array
+     *
+     * @var array<int, array{HTTP_Request2_Response|Exception, ?string}>
      */
     protected $responses = [];
 
@@ -65,8 +66,8 @@ class HTTP_Request2_Adapter_Mock extends HTTP_Request2_Adapter
      *
      * @param HTTP_Request2 $request HTTP request message
      *
-     * @return   HTTP_Request2_Response
-     * @throws   Exception
+     * @return HTTP_Request2_Response
+     * @throws Exception
      */
     public function sendRequest(HTTP_Request2 $request)
     {
@@ -79,18 +80,17 @@ class HTTP_Request2_Adapter_Mock extends HTTP_Request2_Adapter
                 break;
             }
         }
-        if (!$response) {
-            return self::createResponseFromString("HTTP/1.1 400 Bad Request\r\n\r\n");
 
-        } elseif ($response instanceof HTTP_Request2_Response) {
+        if ($response instanceof HTTP_Request2_Response) {
             return $response;
-
-        } else {
+        } elseif ($response instanceof Exception) {
             // rethrow the exception
             $class   = get_class($response);
             $message = $response->getMessage();
             $code    = $response->getCode();
             throw new $class($message, $code);
+        } else {
+            return self::createResponseFromString("HTTP/1.1 400 Bad Request\r\n\r\n");
         }
     }
 
@@ -102,7 +102,8 @@ class HTTP_Request2_Adapter_Mock extends HTTP_Request2_Adapter
      * @param string $url      A request URL this response should be valid for
      *                         (see {@link http://pear.php.net/bugs/bug.php?id=19276})
      *
-     * @throws   HTTP_Request2_Exception
+     * @return void
+     * @throws HTTP_Request2_Exception
      */
     public function addResponse($response, $url = null)
     {
@@ -110,8 +111,8 @@ class HTTP_Request2_Adapter_Mock extends HTTP_Request2_Adapter
             $response = self::createResponseFromString($response);
         } elseif (is_resource($response)) {
             $response = self::createResponseFromFile($response);
-        } elseif (!$response instanceof HTTP_Request2_Response &&
-                  !$response instanceof Exception
+        } elseif (!$response instanceof HTTP_Request2_Response 
+            && !$response instanceof Exception
         ) {
             throw new HTTP_Request2_Exception('Parameter is not a valid response');
         }
@@ -123,8 +124,8 @@ class HTTP_Request2_Adapter_Mock extends HTTP_Request2_Adapter
      *
      * @param string $str string containing HTTP response message
      *
-     * @return   HTTP_Request2_Response
-     * @throws   HTTP_Request2_Exception
+     * @return HTTP_Request2_Response
+     * @throws HTTP_Request2_Exception
      */
     public static function createResponseFromString($str)
     {
@@ -146,8 +147,8 @@ class HTTP_Request2_Adapter_Mock extends HTTP_Request2_Adapter
      *
      * @param resource $fp file pointer returned by fopen()
      *
-     * @return   HTTP_Request2_Response
-     * @throws   HTTP_Request2_Exception
+     * @return HTTP_Request2_Response
+     * @throws HTTP_Request2_Exception
      */
     public static function createResponseFromFile($fp)
     {

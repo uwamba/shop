@@ -33,6 +33,20 @@
           <li><a href="category.php"><i class="fa fa-circle-o"></i> Category</a></li>
         </ul>
       </li>
+      <li class="treeview">
+        <a href="#">
+          <i class="fa fa-barcode"></i>
+          <span>Booking</span>
+          <span class="pull-right-container">
+            <i class="fa fa-angle-left pull-right"></i>
+          </span>
+        </a>
+        <ul class="treeview-menu">
+          <li><a href="event_list.php"><i class="fa fa-circle-o"></i> Product List</a></li>
+          <li><a href="event_calendar.php"><i class="fa fa-circle-o"></i> Calendar</a></li>
+          <li><a href="event_add.php"><i class="fa fa-circle-o"></i> New Event</a></li>
+        </ul>
+      </li>
     </ul>
   </section>
   <!-- /.sidebar -->
