@@ -1,0 +1,18 @@
+{
+    "database": {
+        "name": "test",
+        "host": "localhost",
+        "password": "root"
+    }
+	"momo_api": {
+        "name": "test",
+        "host": "localhost",
+        "password": "root"
+    }
+	"email": {
+        "name": "test",
+        "host": "localhost",
+        "password": "root"
+    }
+	
+}

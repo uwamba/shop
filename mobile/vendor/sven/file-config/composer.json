@@ -1,0 +1,42 @@
+{
+    "name": "sven/file-config",
+    "description": "Store and read configuration values using files on disk",
+    "keywords": [
+        "configuration",
+        "config",
+        "flatfile",
+        "flat",
+        "file",
+        "json",
+        "env"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sven Luijten",
+            "email": "contact@svenluijten.com",
+            "homepage": "https://svenluijten.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1 || ^8.0",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5 || ^8.0",
+        "league/flysystem": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sven\\FileConfig\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sven\\FileConfig\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

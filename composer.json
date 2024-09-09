@@ -1,0 +1,8 @@
+{
+    "require": {
+        "patricpoba/mtn-momo-api-php": "^0.2.2",
+        "pear/http_request2": "^2.5",
+        "phpmailer/phpmailer": "^6.5",
+        "sven/file-config": "^3.1"
+    }
+}

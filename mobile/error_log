@@ -1,0 +1,153 @@
+[28-Feb-2022 22:32:13 Africa/Kigali] PHP Notice:  Undefined index: id in /home4/reditech/public_html/mobile/support_history.php on line 5
+[28-Feb-2022 22:32:13 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 15
+[28-Feb-2022 22:32:19 Africa/Kigali] PHP Notice:  Undefined index: id in /home4/reditech/public_html/mobile/support_history.php on line 5
+[28-Feb-2022 22:32:19 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 15
+[28-Feb-2022 22:32:27 Africa/Kigali] PHP Notice:  Undefined index: id in /home4/reditech/public_html/mobile/support_history.php on line 5
+[28-Feb-2022 22:32:27 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 15
+[28-Feb-2022 22:35:13 Africa/Kigali] PHP Notice:  Undefined index: id in /home4/reditech/public_html/mobile/support_history.php on line 5
+[28-Feb-2022 22:35:13 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 15
+[28-Feb-2022 22:43:40 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 22
+[28-Feb-2022 22:44:57 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 22
+[28-Feb-2022 22:45:17 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 22
+[28-Feb-2022 22:45:59 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 22
+[28-Feb-2022 22:56:54 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 22
+[28-Feb-2022 23:12:50 Africa/Kigali] PHP Notice:  Undefined variable: json in /home4/reditech/public_html/mobile/support_history.php on line 22
+[17-Jun-2023 10:40:28 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:40:28 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:40:28 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:40:28 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:40:47 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:40:48 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:40:51 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:40:52 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:53:18 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:53:46 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:53:48 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:53:48 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:53:52 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:53:52 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:53:52 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:53:52 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:53:53 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:55:43 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/search.php on line 18
+[17-Jun-2023 10:56:01 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:56:01 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:58:33 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 10:58:33 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:22:43 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:22:43 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:27:48 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:28:19 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:28:19 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:40:43 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:50:58 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:51:01 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:52:11 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:52:11 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:52:27 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:52:51 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:54:25 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 17
+[17-Jun-2023 11:56:12 UTC] PHP Warning:  Undefined variable $pdo in /home4/cexvzstk/public_html/mobile/cart_view.php on line 7
+[17-Jun-2023 11:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function open() on null in /home4/cexvzstk/public_html/mobile/cart_view.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 7
+[17-Jun-2023 11:56:17 UTC] PHP Warning:  Undefined variable $pdo in /home4/cexvzstk/public_html/mobile/cart_view.php on line 7
+[17-Jun-2023 11:56:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function open() on null in /home4/cexvzstk/public_html/mobile/cart_view.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 7
+[17-Jun-2023 12:04:21 UTC] PHP Warning:  Undefined variable $pdo in /home4/cexvzstk/public_html/mobile/cart_view.php on line 7
+[17-Jun-2023 12:04:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function open() on null in /home4/cexvzstk/public_html/mobile/cart_view.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 7
+[17-Jun-2023 12:06:18 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view2.php on line 17
+[17-Jun-2023 12:06:18 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view2.php on line 17
+[17-Jun-2023 12:06:18 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view2.php on line 17
+[17-Jun-2023 12:06:18 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view2.php on line 17
+[17-Jun-2023 12:07:41 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view2.php on line 17
+[17-Jun-2023 12:07:42 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view2.php on line 17
+[19-Jun-2023 06:05:52 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:05:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CART.USER_ID' in 'where clause' in /home4/cexvzstk/public_html/mobile/cart_view.php:9
+Stack trace:
+#0 /home4/cexvzstk/public_html/mobile/cart_view.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 9
+[19-Jun-2023 06:05:52 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:05:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CART.USER_ID' in 'where clause' in /home4/cexvzstk/public_html/mobile/cart_view.php:9
+Stack trace:
+#0 /home4/cexvzstk/public_html/mobile/cart_view.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 9
+[19-Jun-2023 06:08:04 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:08:04 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:08:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CART.USER_ID' in 'where clause' in /home4/cexvzstk/public_html/mobile/cart_view.php:9
+Stack trace:
+#0 /home4/cexvzstk/public_html/mobile/cart_view.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 9
+[19-Jun-2023 06:08:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CART.USER_ID' in 'where clause' in /home4/cexvzstk/public_html/mobile/cart_view.php:9
+Stack trace:
+#0 /home4/cexvzstk/public_html/mobile/cart_view.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 9
+[19-Jun-2023 06:36:32 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:36:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CART.USER_ID' in 'where clause' in /home4/cexvzstk/public_html/mobile/cart_view.php:9
+Stack trace:
+#0 /home4/cexvzstk/public_html/mobile/cart_view.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 9
+[19-Jun-2023 06:36:33 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:36:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CART.USER_ID' in 'where clause' in /home4/cexvzstk/public_html/mobile/cart_view.php:9
+Stack trace:
+#0 /home4/cexvzstk/public_html/mobile/cart_view.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 9
+[19-Jun-2023 06:36:38 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:36:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CART.USER_ID' in 'where clause' in /home4/cexvzstk/public_html/mobile/cart_view.php:9
+Stack trace:
+#0 /home4/cexvzstk/public_html/mobile/cart_view.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 9
+[19-Jun-2023 06:36:38 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:36:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CART.USER_ID' in 'where clause' in /home4/cexvzstk/public_html/mobile/cart_view.php:9
+Stack trace:
+#0 /home4/cexvzstk/public_html/mobile/cart_view.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home4/cexvzstk/public_html/mobile/cart_view.php on line 9
+[19-Jun-2023 06:38:11 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:38:11 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 15
+[19-Jun-2023 06:38:11 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:38:11 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 15
+[19-Jun-2023 06:38:37 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:38:37 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 15
+[19-Jun-2023 06:39:12 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:42:59 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:42:59 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 21
+[19-Jun-2023 06:43:02 UTC] PHP Warning:  Undefined array key "ID" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:43:02 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 21
+[19-Jun-2023 06:46:17 UTC] PHP Warning:  Undefined array key "id" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:46:17 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 21
+[19-Jun-2023 06:46:20 UTC] PHP Warning:  Undefined array key "id" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[19-Jun-2023 06:46:20 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 21
+[20-Jun-2023 14:41:17 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 21
+[20-Jun-2023 14:41:17 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 21
+[20-Jun-2023 14:42:23 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 21
+[20-Jun-2023 14:42:23 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 21
+[20-Jun-2023 14:43:08 UTC] PHP Warning:  Undefined array key "id" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[20-Jun-2023 14:43:08 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 21
+[20-Jun-2023 14:43:47 UTC] PHP Warning:  Undefined array key "id" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[20-Jun-2023 14:43:47 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:45:02 UTC] PHP Warning:  Undefined array key "id" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[20-Jun-2023 14:45:02 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:45:05 UTC] PHP Warning:  Undefined array key "id" in /home4/cexvzstk/public_html/mobile/cart_view.php on line 6
+[20-Jun-2023 14:45:05 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:45:18 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:45:18 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:45:46 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:46:05 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:46:05 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:47:17 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:47:31 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
+[20-Jun-2023 14:47:31 UTC] PHP Warning:  Undefined variable $json in /home4/cexvzstk/public_html/mobile/cart_view.php on line 22
