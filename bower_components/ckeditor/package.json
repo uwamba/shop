@@ -22,5 +22,8 @@
   "bugs": {
     "url": "http://dev.ckeditor.com"
   },
-  "homepage": "http://ckeditor.com"
+  "homepage": "http://ckeditor.com",
+  "dependencies": {
+    "ckeditor": "file:"
+  }
 }
