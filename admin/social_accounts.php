@@ -93,24 +93,7 @@ input:checked + .slider:before {
     <!-- Main content -->
     <section class="content">
         <div class="container-fluid">
-            @if (session('status'))
-            <div class="row">
-                <div class="col mt-3">
-                    <div class="alert alert-success" role="alert">
-                        {{ session('status') }}
-                    </div>
-                </div>
-            </div>
-            @endif
-            @if (session('error'))
-            <div class="row">
-                <div class="col mt-3">
-                    <div class="alert alert-danger" role="alert">
-                        {{ session('error') }}
-                    </div>
-                </div>
-            </div>
-            @endif
+            
             <div class="row justify-content-center">
                 <div class="col mt-4">
                     <div class="card">

@@ -36,6 +36,16 @@
   	<!-- Google Font -->
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 
+    <style>
+        /* Styling for image preview */
+        .img-preview {
+            max-width: 100%;
+            height: auto;
+            margin-top: 10px;
+            border: 1px solid #ddd;
+            padding: 5px;
+        }
+    </style>
   	<style type="text/css">
   		.mt20{
   			margin-top:20px;

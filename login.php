@@ -1,4 +1,6 @@
-<?php include 'includes/session.php'; ?>
+<?php 
+require 'vendor/autoload.php';
+include 'includes/session.php'; ?>
 <?php
   if(isset($_SESSION['user'])){
     header('location: cart_view.php');

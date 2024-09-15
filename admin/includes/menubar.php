@@ -44,7 +44,7 @@
         <ul class="treeview-menu">
           <li><a href="event_list.php"><i class="fa fa-circle-o"></i>  List</a></li>
           <li><a href="event_calendar.php"><i class="fa fa-circle-o"></i> Calendar</a></li>
-          <li><a href="event_add.php"><i class="fa fa-circle-o"></i> New Event</a></li>
+          <li><a href="event_create_form.php"><i class="fa fa-circle-o"></i> New Event</a></li>
         </ul>
       </li>
       <li class="treeview">
@@ -56,9 +56,9 @@
           </span>
         </a>
         <ul class="treeview-menu">
-          <li><a href="social_linkedin_connect.php"><i class="fa fa-circle-o"></i> Account</a></li>
-          <li><a href="event_calendar.php"><i class="fa fa-circle-o"></i> post</a></li>
-          <li><a href="event_add.php"><i class="fa fa-circle-o"></i> view post</a></li>
+          <li><a href="social_accounts.php"><i class="fa fa-circle-o"></i> ACCOUNT</a></li>
+          <li><a href="SocialMediaPostForm.php"><i class="fa fa-circle-o"></i> NEW POST</a></li>
+          <li><a href="event_add.php"><i class="fa fa-circle-o"></i> VIEW POST</a></li>
         </ul>
       </li>
     </ul>

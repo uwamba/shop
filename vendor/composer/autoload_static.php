@@ -62,7 +62,12 @@ class ComposerStaticInit99c11773273cd7e70bf7d7ca15ad012f
         ),
         'C' => 
         array (
+            'Composer\\CaBundle\\' => 18,
             'Clue\\StreamFilter\\' => 18,
+        ),
+        'A' => 
+        array (
+            'Abraham\\TwitterOAuth\\' => 21,
         ),
     );
 
@@ -139,9 +144,17 @@ class ComposerStaticInit99c11773273cd7e70bf7d7ca15ad012f
         array (
             0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
+        'Composer\\CaBundle\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/composer/ca-bundle/src',
+        ),
         'Clue\\StreamFilter\\' => 
         array (
             0 => __DIR__ . '/..' . '/clue/stream-filter/src',
+        ),
+        'Abraham\\TwitterOAuth\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/abraham/twitteroauth/src',
         ),
     );
 

@@ -30,7 +30,7 @@
 		                  <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
 						  <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
 		                </ol>
-		                <div class="carousel-inner" style="margin:0px ; padding-top:10px; important">
+		                <div class="carousel-inner" style="margin:0px ; padding-top:10px;">
 		                  <div class="item">
 		                    <img src="images/slider2.jpg" alt="Second slide" >
 		                  </div>
